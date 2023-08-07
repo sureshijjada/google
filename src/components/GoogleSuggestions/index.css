@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  text-align: center;
+  padding: 200px;
+}
+.img {
+  height: 100px;
+  width: 250px;
+}
+.card {
+  height: 80px;
+  background-color: white;
+  border-radius: 8px;
+}
+.subimg {
+  height: 25px;
+  width: 25px;
+  margin-top: 10px;
+}
+.ulcard {
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 5px;
+}
+.subcard {
+  border: 0px solid grey;
+  border-radius: 5px;
+  background-color: white;
+}

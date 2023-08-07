@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+  height: 20px;
+  margin: 5px;
+}
+.paragraph {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.subcard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100px;
+  text-align: center;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+  margin: 15px;
+}
+.button {
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border-width: 0px;
+}
